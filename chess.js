@@ -42,9 +42,9 @@ function canvasChecks(){
 	}
 	//加载棋子
 	black = new Image();
-	black.src = "black.png";
+	black.src = "img/black.png";
 	white = new Image();
-	white.src = "white.png";
+	white.src = "img/white.png";
 }
 
 //点击事件
